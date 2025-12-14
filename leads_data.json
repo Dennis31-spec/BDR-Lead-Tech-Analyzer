@@ -1,0 +1,34 @@
+[
+  {
+    "company_name": "Phoenix Analytics",
+    "industry": "Data Visualization",
+    "current_database": "PostgreSQL",
+    "auth_method": "Auth0",
+    "data_model_preference": "Relational",
+    "scale_indicator": "High"
+  },
+  {
+    "company_name": "Aura Flow",
+    "industry": "IoT Devices",
+    "current_database": "MongoDB",
+    "auth_method": "Custom Node.js Auth",
+    "data_model_preference": "Document",
+    "scale_indicator": "Medium"
+  },
+  {
+    "company_name": "Zenith Studios",
+    "industry": "Mobile Gaming",
+    "current_database": "MySQL",
+    "auth_method": "Firebase Auth",
+    "data_model_preference": "Relational",
+    "scale_indicator": "Low"
+  },
+  {
+    "company_name": "Open API Co.",
+    "industry": "Developer Tools",
+    "current_database": "SQLite",
+    "auth_method": "No Auth/Public API",
+    "data_model_preference": "Relational",
+    "scale_indicator": "Medium"
+  }
+]
